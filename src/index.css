@@ -1,0 +1,16 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Prociono", serif;
+}
+
+body{
+  background-image: url('https://static.vecteezy.com/system/resources/previews/028/634/255/large_2x/a-classroom-with-a-blackboard-desk-pens-and-school-supplies-free-photo.jpg');
+  background-size: cover;
+  background-position: top;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
